@@ -5,7 +5,7 @@ task default: ["notify:expired"]
 
 namespace :notify do
   pages_urls = [
-    "https://ministryofjustice.github.io/hmpps-integration-api-docs/api/pages.json",
+    "https://ministryofjustice.github.io/hmpps-integration-api/api/pages.json",
     "https://ministryofjustice.github.io/nvvs-devops/api/pages.json",
     "https://runbooks.cloud-platform.service.justice.gov.uk/api/pages.json",
     "https://docs.analytical-platform.service.justice.gov.uk/api/pages.json",
