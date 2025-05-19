@@ -3,6 +3,9 @@ on:
     - cron: '25 09 * * 1-5'  # 09:25 UTC, Monday to Friday
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   daniel_the_manual_spaniel:
     runs-on: ubuntu-latest
