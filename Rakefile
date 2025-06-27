@@ -11,12 +11,11 @@ namespace :notify do
     "https://docs.analytical-platform.service.justice.gov.uk/api/pages.json",
     "https://user-guide.cloud-platform.service.justice.gov.uk/api/pages.json",
     "https://user-guide.modernisation-platform.service.justice.gov.uk/api/pages.json",
-    "https://runbooks.operations-engineering.service.justice.gov.uk/api/pages.json",
-    "https://user-guide.operations-engineering.service.justice.gov.uk/api/pages.json",
     "https://docs.opg.service.justice.gov.uk/api/pages.json",
     "https://user-guide.find-moj-data.service.justice.gov.uk/api/pages.json",
     "https://runbooks.find-moj-data.service.justice.gov.uk/api/pages.json",
     "https://ministryofjustice.github.io/hmpps-probation-integration-services/tech-docs/api/pages.json"
+    "https://ministryofjustice.github.io/cloud-optimisation-and-accountability/api/pages.json"
   ]
 
   limits = {
